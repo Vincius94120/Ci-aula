@@ -1,0 +1,1 @@
+[![.github/workflows/Linha-de-montagem.yml](https://github.com/Vincius94120/Ci-aula/actions/workflows/Linha-de-montagem.yml/badge.svg)](https://github.com/Vincius94120/Ci-aula/actions/workflows/Linha-de-montagem.yml)
